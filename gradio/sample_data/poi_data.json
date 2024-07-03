@@ -1,0 +1,18 @@
+
+{
+    "Restaurant": [
+      {"name": "Pizza Place", "lat": 40.7128, "long": -74.0060},
+      {"name": "Sushi Bar", "lat": 40.7589, "long": -73.9851},
+      {"name": "Burger Joint", "lat": 40.7480, "long": -73.9857}
+    ],
+    "Hotel": [
+      {"name": "Luxury Hotel", "lat": 40.7484, "long": -73.9857},
+      {"name": "Budget Inn", "lat": 40.7516, "long": -73.9776},
+      {"name": "Boutique Hotel", "lat": 40.7614, "long": -73.9776}
+    ],
+    "Attraction": [
+      {"name": "Museum", "lat": 40.7794, "long": -73.9632},
+      {"name": "Park", "lat": 40.7812, "long": -73.9665},
+      {"name": "Theater", "lat": 40.7590, "long": -73.9845}
+    ]
+  }
